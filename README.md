@@ -14,6 +14,10 @@ You can heal by walking into cozy sparks, will you protect the child until the e
 
 [![IMAGE ALT TEXT HERE](./Docs/assets/trailerpreview.png)](https://www.youtube.com/watch?v=l-NoXdTXvfA)
 
+## Links
+- [Itch.io](https://polybro.itch.io/watchbear)
+- [Documentation](https://wiktorczernik.github.io/watchbear-game/)
+
 ## How to get started
 1. Install Unity 6000.3.4f1
 2. Open the project
