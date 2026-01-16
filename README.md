@@ -21,7 +21,8 @@ You can heal by walking into cozy sparks, will you protect the child until the e
 ## How to get started
 1. Install Unity 6000.3.4f1
 2. Open the project
-3. Enjoy!
+3. Import TMP Essential Resources
+4. Enjoy!
 
 ## Development Team
 A list of people who participated in the game's development during the Winter Melonjam 2022
